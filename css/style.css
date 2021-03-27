@@ -72,20 +72,24 @@ p.main {
 
 #source {
   position:absolute;
-  left: 190px;
+  width: 90%;
+  left: 170px;
   background-color: white;
   font-size: 10px;
   border: 0px;
   color: #14213d;
+  bottom: 10;
 }
 
 #about {
   position:absolute;
+  width: 90%;
   left: 270px;
   background-color: white;
   font-size: 10px;
   border: 0px;
   color: #14213d;
+  bottom: 10;
 }
 
 .leaflet-marker-icon {
